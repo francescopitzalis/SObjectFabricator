@@ -16,3 +16,12 @@ out
 .sf
 .sfdx
 .pmdCache
+
+# Added by Illuminated Cloud
+.localdev/
+target/
+node_modules/
+/.illuminatedCloud/
+**/tsconfig*.json
+**/*.tsbuildinfo
+**/graphql.config.yml
